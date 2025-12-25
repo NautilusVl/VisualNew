@@ -1,0 +1,52 @@
+[
+  {
+    "time": "06:59:14",
+    "message": "Hello from Android!",
+    "number": 1
+  },
+  {
+    "time": "06:59:18",
+    "message": "Hello from Android! 1766620756212",
+    "number": 2
+  },
+  {
+    "packet_number": 1,
+    "timestamp": "2025-12-25T07:15:52.102002",
+    "time_human": "2025-12-25 07:15:52",
+    "message": "Hello from Android!",
+    "source": "Android",
+    "server_received_at": "07:15:52"
+  },
+  {
+    "packet_number": 2,
+    "timestamp": "2025-12-25T07:15:58.906048",
+    "time_human": "2025-12-25 07:15:58",
+    "message": "Hello from Android! 1766621756331",
+    "source": "Android",
+    "server_received_at": "07:15:58"
+  },
+  {
+    "packet_number": 3,
+    "timestamp": "2025-12-25T07:16:00.275621",
+    "time_human": "2025-12-25 07:16:00",
+    "message": "Hello from Android! 1766621757703",
+    "source": "Android",
+    "server_received_at": "07:16:00"
+  },
+  {
+    "packet_number": 4,
+    "timestamp": "2025-12-25T07:16:01.219901",
+    "time_human": "2025-12-25 07:16:01",
+    "message": "Hello from Android! 1766621758647",
+    "source": "Android",
+    "server_received_at": "07:16:01"
+  },
+  {
+    "packet_number": 5,
+    "timestamp": "2025-12-25T07:16:02.191206",
+    "time_human": "2025-12-25 07:16:02",
+    "message": "Hello from Android! 1766621759615",
+    "source": "Android",
+    "server_received_at": "07:16:02"
+  }
+]
